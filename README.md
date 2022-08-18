@@ -6,4 +6,4 @@
 Приложение по сокращению ссылок,для его запуска:
 1. В корне проекта npm install
 2. В папке client npm install(либо в корне npm run client:install)
-В корне проекта npm run dev
+3. В корне проекта npm run dev
