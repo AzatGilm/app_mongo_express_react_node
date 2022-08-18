@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "pet project",
+  "mongoUri": "mongodb+srv://Azat:125vb@cluster0.67ml1.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
